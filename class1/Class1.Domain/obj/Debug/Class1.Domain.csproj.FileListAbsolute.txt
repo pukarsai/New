@@ -1,0 +1,12 @@
+G:\dotnet class\class1\Class1.Domain\bin\Debug\Class1.Domain.dll.config
+G:\dotnet class\class1\Class1.Domain\bin\Debug\Class1.Domain.dll
+G:\dotnet class\class1\Class1.Domain\bin\Debug\Class1.Domain.pdb
+G:\dotnet class\class1\Class1.Domain\bin\Debug\EntityFramework.dll
+G:\dotnet class\class1\Class1.Domain\bin\Debug\EntityFramework.SqlServer.dll
+G:\dotnet class\class1\Class1.Domain\bin\Debug\EntityFramework.xml
+G:\dotnet class\class1\Class1.Domain\bin\Debug\EntityFramework.SqlServer.xml
+G:\dotnet class\class1\Class1.Domain\obj\Debug\Class1.Domain.csprojAssemblyReference.cache
+G:\dotnet class\class1\Class1.Domain\obj\Debug\Class1.Domain.csproj.CoreCompileInputs.cache
+G:\dotnet class\class1\Class1.Domain\obj\Debug\Class1.Domain.csproj.CopyComplete
+G:\dotnet class\class1\Class1.Domain\obj\Debug\Class1.Domain.dll
+G:\dotnet class\class1\Class1.Domain\obj\Debug\Class1.Domain.pdb
